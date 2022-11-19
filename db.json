@@ -1,0 +1,68 @@
+{
+    "latest-course":[
+        {
+        "id":1,
+        "subject":"english",
+        "image":"english",
+        "description":"English - Class-9, mid-term sample paper-2022-23",
+        "download":"assets/images/courses-9/mid-english-2022.pdf",
+        "view":"assets/images/courses-9/mid-english-2022.pdf",
+        "author":"Tushar",
+        "class":"class-9"
+      
+      },
+      {
+      "id":2,
+      "subject":"hindi",
+      "image":"hindi",
+      "description":"hindi - Class-9, mid-term sample paper-2022-23",
+      "download":"assets/images/courses-9/mid-hindi-2022.pdf",
+      "view":"assets/images/courses-9/mid-hindi-2022.pdf",
+      "author":"Tushar",
+        "class":"class-9"
+      
+      },
+      {
+      "id":3,
+      "subject":"maths",
+      "image":"maths",
+      "description":"maths - Class-9, mid-term sample paper-2022-23",
+      "download":"assets/images/courses-9/mid-maths-2022.pdf",
+      "view":"assets/images/courses-9/mid-maths-2022.pdf",
+      "author":"Tushar",
+        "class":"class-9"
+      
+      },
+      {
+      "id":4,
+      "subject":"science",
+      "image":"science",
+      "description":"science - Class-9, mid-term sample paper-2022-23",
+      "download":"assets/images/courses-9/mid-science-2022.pdf",
+      "view":"assets/images/courses-9/mid-science-2022.pdf",
+      "author":"Tushar",
+        "class":"class-9"
+      
+      },{
+      "id":5,
+      "subject":"sst",
+      "image":"sst",
+      "description":"sst - Class-9, mid-term sample paper-2022-23",
+      "download":"assets/images/courses-9/mid-sst-2022.pdf",
+      "view":"assets/images/courses-9/mid-sst-2022.pdf",
+      "author":"Tushar",
+        "class":"class-9"
+      
+      },{
+        "id":6,
+        "subject":"sanskrit",
+        "image":"sanskrit",
+        "description":"sanskrit - Class-9, mid-term sample paper-2022-23",
+        "download":"assets/images/courses-9/mid-sanskrit-2022.pdf",
+        "view":"assets/images/courses-9/mid-sanskrit-2022.pdf",
+        "author":"Tushar",
+          "class":"class-9"
+        
+        }
+      ]
+}
